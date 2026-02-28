@@ -1,0 +1,7 @@
+requests>=2.31.0
+python-dotenv>=1.0.0
+transformers>=4.37.0
+torch>=2.1.0
+bitsandbytes>=0.41.0
+pdfplumber>=0.10.0
+accelerate>=0.24.0
